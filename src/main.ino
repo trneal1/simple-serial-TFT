@@ -29,7 +29,7 @@ const char *password = "ripcord1";
 
 WiFiUDP Udp;
 
-WiFiServer Tcp(8001);
+WiFiServer Tcp(8002);
 
 // For the Adafruit shield, these are the default.
 #define TFT_DC D1
